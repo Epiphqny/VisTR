@@ -114,11 +114,11 @@ We would like to thank the [DETR](https://github.com/facebookresearch/detr) open
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
 ```
-@article{wang2020end,
+@inproceedings{wang2020end,
   title={End-to-End Video Instance Segmentation with Transformers},
   author={Wang, Yuqing and Xu, Zhaoliang and Wang, Xinlong and Shen, Chunhua and Cheng, Baoshan and Shen, Hao and Xia, Huaxia},
-  journal={arXiv preprint arXiv:2011.14503},
-  year={2020}
+  booktitle =  {Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR)},
+  year={2021}
 }
 ```
 
