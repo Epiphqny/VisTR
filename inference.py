@@ -27,7 +27,6 @@ import torch.nn.functional as F
 import json
 from scipy.optimize import linear_sum_assignment
 import pycocotools.mask as mask_util
-import gc
 
 
 
