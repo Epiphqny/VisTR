@@ -1,5 +1,5 @@
 '''
-Inference code for VisTR, without any tracking code
+Inference code for VisTR
 Modified from DETR (https://github.com/facebookresearch/detr)
 '''
 import argparse
