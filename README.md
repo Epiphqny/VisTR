@@ -86,9 +86,9 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>VisTR</td>
          <td>R50</td>
          <td>69.9</td>
-         <td>34.4</td>
-         <td><a href="">vistr_r50(Please wait)</a></td>
-         <td></td>
+         <td>35.6</td>
+         <td><a href="https://drive.google.com/file/d/1Oi7Q1Nr4K8cIBpu0zbuqzZQiZGUfW_4u/view?usp=sharing">vistr_r50</a></td>
+         <td>28ab6d98ebb0c817a81323c81f68edfc</td>
        </tr>
        <tr>
          <th>1</th>
