@@ -77,7 +77,6 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <th>FPS</th>
          <th>mask AP</th>
          <th>model</th>
-         <th>md5</th>
          <th>result json zip</th>
          <th>detailed AP </th>
        </tr>
@@ -90,9 +89,10 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>69.9</td>
          <td>35.6</td>
          <td><a href="https://drive.google.com/file/d/1Oi7Q1Nr4K8cIBpu0zbuqzZQiZGUfW_4u/view?usp=sharing">vistr_r50</a></td>
-         <td>28ab6d98ebb0c817a81323c81f68edfc</td>
          <td><a href="https://drive.google.com/file/d/1bu0FDzsCjZrz61_NY98vM-VgEEJX1InX/view?usp=sharing">vistr_r50.zip</a></td>
-       <td></td>
+       <td><p align="center">
+<img src="https://user-images.githubusercontent.com/16319629/111947570-bb225f00-8b18-11eb-9bd4-4972124192f8.png" width="100">
+</p></td>
        </tr>
        <tr>
          <th>1</th>
@@ -100,10 +100,13 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>R101</td>
          <td>57.7</td>
          <td>38.6</td>
-         <td><a href="https://drive.google.com/file/d/1PrigF8oJW1TSNDMV9cNDfHc_rP1Oi5Si/view?usp=sharing">vistr_r101</a></td>
-         <td>2b8d412225121fb1694427ab69a40656</td>
-         <td><a href="https://drive.google.com/file/d/1PrigF8oJW1TSNDMV9cNDfHc_rP1Oi5Si/view?usp=sharing">vistr_r101.zip</a></td>
-       <td></td>
+         <td><a href="https://drive.google.com/file/d/1tmgE6dthi0RwiyCURC3wQUz_zwKBTC9A/view?usp=sharing">vistr_r101</a></td>
+         <td><a href="https://drive.google.com/file/d/1xhqJQegSRpLNeXLANnRoLAgEcYL-Pyea/view?usp=sharing">vistr_r101.zip</a></td>
+       <td>
+          <p align="center">
+<img src="https://user-images.githubusercontent.com/16319629/111947383-523ae700-8b18-11eb-9b13-532cbc26f372.png" width="100">
+</p>
+</td>
        </tr>
    </table>
 
