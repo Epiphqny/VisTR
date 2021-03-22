@@ -78,6 +78,7 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <th>mask AP</th>
          <th>model</th>
          <th>md5</th>
+         <th>result json zip</th>
        </tr>
      </thead>
      <tbody>
@@ -89,6 +90,7 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>35.6</td>
          <td><a href="https://drive.google.com/file/d/1Oi7Q1Nr4K8cIBpu0zbuqzZQiZGUfW_4u/view?usp=sharing">vistr_r50</a></td>
          <td>28ab6d98ebb0c817a81323c81f68edfc</td>
+         <td></td>
        </tr>
        <tr>
          <th>1</th>
@@ -98,6 +100,7 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>36.5</td>
          <td><a href="https://drive.google.com/file/d/1PrigF8oJW1TSNDMV9cNDfHc_rP1Oi5Si/view?usp=sharing">vistr_r101</a></td>
          <td>2b8d412225121fb1694427ab69a40656</td>
+         <td></td>
        </tr>
    </table>
 
