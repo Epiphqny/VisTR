@@ -51,9 +51,9 @@ Download the pretrained [DETR models](https://drive.google.com/drive/folders/1Dl
 
 ### Training
 
-Training of the model requires at least 32g memory GPU, we performed the experiment on 32g V100 card.
+Training of the model requires at least 32g memory GPU, we performed the experiment on 32g V100 card. （As the training resolution is limited by the GPU memory, if you have a larger memory GPU and want to perform the experiment, please contact with me, thanks very much)
 
-To train baseline VisTR on a single node with 8 gpus for 16 epochs, run:
+To train baseline VisTR on a single node with 8 gpus for 18 epochs, run:
 ```
 python -m torch.distributed.launch --nproc_per_node=8 --use_env main.py --backbone resnet101/50 --ytvos_path /path/to/ytvos --masks --pretrained_weights /path/to/pretrained_path
 ```
