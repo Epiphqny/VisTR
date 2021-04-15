@@ -46,7 +46,7 @@ VisTR
 ...
 ```
 
-Download the pretrained [DETR models](https://drive.google.com/drive/folders/1DlN8uWHT2WaKruarGW2_XChhpZeI9MFG?usp=sharing) on COCO and save it to the pretrained path.
+Download the pretrained DETR models [Google Drive](https://drive.google.com/drive/folders/1DlN8uWHT2WaKruarGW2_XChhpZeI9MFG?usp=sharing) [BaiduYun](https://pan.baidu.com/s/12omUNDRjhAeGZ5olqQPpHA)(passcode:alge) on COCO and save it to the pretrained path.
 
 
 ### Training
@@ -88,7 +88,7 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>R50</td>
          <td>69.9</td>
          <td>35.6</td>
-         <td><a href="https://drive.google.com/file/d/1Oi7Q1Nr4K8cIBpu0zbuqzZQiZGUfW_4u/view?usp=sharing">vistr_r50</a></td>
+         <td><a href="https://drive.google.com/file/d/1Oi7Q1Nr4K8cIBpu0zbuqzZQiZGUfW_4u/view?usp=sharing">google drive, </a><a href="https://pan.baidu.com/s/1w25ZaPdlH7dUM07iDVNaYA">baiduyun(passcode:o9d7)</td>
          <td><a href="https://drive.google.com/file/d/1bu0FDzsCjZrz61_NY98vM-VgEEJX1InX/view?usp=sharing">vistr_r50.zip</a></td>
        <td><p align="center">
 <img src="https://user-images.githubusercontent.com/16319629/111947570-bb225f00-8b18-11eb-9bd4-4972124192f8.png" width="100">
@@ -100,7 +100,7 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>R101</td>
          <td>57.7</td>
          <td>38.6</td>
-         <td><a href="https://drive.google.com/file/d/1tmgE6dthi0RwiyCURC3wQUz_zwKBTC9A/view?usp=sharing">vistr_r101</a></td>
+         <td><a href="https://drive.google.com/file/d/1tmgE6dthi0RwiyCURC3wQUz_zwKBTC9A/view?usp=sharing">google drive, </a><a href="https://pan.baidu.com/s/1oaHcpiA7hqSHeCE-H9vsow">baiduyun(passcode:mbff)</a></td>
          <td><a href="https://drive.google.com/file/d/1xhqJQegSRpLNeXLANnRoLAgEcYL-Pyea/view?usp=sharing">vistr_r101.zip</a></td>
        <td>
           <p align="center">
