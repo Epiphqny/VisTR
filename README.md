@@ -87,11 +87,13 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>VisTR</td>
          <td>R50</td>
          <td>69.9</td>
-         <td>35.6</td>
-         <td><a href="https://drive.google.com/file/d/1Oi7Q1Nr4K8cIBpu0zbuqzZQiZGUfW_4u/view?usp=sharing">google drive, </a><a href="https://pan.baidu.com/s/1w25ZaPdlH7dUM07iDVNaYA">baiduyun(passcode:o9d7)</td>
-         <td><a href="https://drive.google.com/file/d/1bu0FDzsCjZrz61_NY98vM-VgEEJX1InX/view?usp=sharing">vistr_r50.zip</a></td>
+         <td>36.2</td>
+         <td><a href="https://drive.google.com/file/d/10lfe_QJSoZJzcJKxWoxt67QbJG35X55e/view?usp=sharing">vistr_r50.pth </a></td>
+         <td><a href="https://drive.google.com/file/d/1vnZvxFR94EQ5TsrWixe368WMnqJ2KHIv/view?usp=sharing">vistr_r50.zip</a></td>
        <td><p align="center">
-<img src="https://user-images.githubusercontent.com/16319629/111947570-bb225f00-8b18-11eb-9bd4-4972124192f8.png" width="100">
+<img src="https://user-images.githubusercontent.com/16319629/115868905-b4686e00-a46f-11eb-9fe0-c9170026fca9.png" width="100">
+
+
 </p></td>
        </tr>
        <tr>
@@ -99,12 +101,12 @@ We provide baseline VisTR models, and plan to include more in future. AP is comp
          <td>VisTR</td>
          <td>R101</td>
          <td>57.7</td>
-         <td>38.6</td>
-         <td><a href="https://drive.google.com/file/d/1tmgE6dthi0RwiyCURC3wQUz_zwKBTC9A/view?usp=sharing">google drive, </a><a href="https://pan.baidu.com/s/1oaHcpiA7hqSHeCE-H9vsow">baiduyun(passcode:mbff)</a></td>
-         <td><a href="https://drive.google.com/file/d/1xhqJQegSRpLNeXLANnRoLAgEcYL-Pyea/view?usp=sharing">vistr_r101.zip</a></td>
+         <td>40.1</td>
+         <td><a href="https://drive.google.com/file/d/1WTkrpbITPsjVQESaetgI-nPyjQybRc2M/view?usp=sharing">vistr_r101.pth </a></td>
+         <td><a href="https://drive.google.com/file/d/1bfZO3MNF9e0aO0W8vwnALsf_m84lCFfb/view?usp=sharing">vistr_r101.zip</a></td>
        <td>
           <p align="center">
-<img src="https://user-images.githubusercontent.com/16319629/111947383-523ae700-8b18-11eb-9b13-532cbc26f372.png" width="100">
+<img src="https://user-images.githubusercontent.com/16319629/115869052-e974c080-a46f-11eb-92e3-1778aad83c71.png" width="100">
 </p>
 </td>
        </tr>
