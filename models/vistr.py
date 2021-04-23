@@ -311,7 +311,7 @@ class MLP(nn.Module):
 
 def build(args):
     if args.dataset_file == "ytvos":
-        num_classes = 40
+        num_classes = 41
     device = torch.device(args.device)
 
     backbone = build_backbone(args)
