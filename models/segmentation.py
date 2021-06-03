@@ -123,7 +123,7 @@ class VisTRsegm(nn.Module):
             mask_ins = mask_ins.permute(0,2,1,3,4)
             outputs_seg_masks.append(self.insmask_head(mask_ins))
         outputs_seg_masks = torch.cat(outputs_seg_masks,1).squeeze(0).permute(1,0,2,3)
-        outputs_seg_masks = outputs_seg_masks.reshape(1,360,outputs_seg_masks.size(-2),outputs_seg_masks.size(-1))
+        outputs_seg_masks = outputs_seg_masks.reshape(1,self.vistr.num_queries,outputs_seg_masks.size(-2),outputs_seg_masks.size(-1))
         out["pred_masks"] = outputs_seg_masks
         return out
 
