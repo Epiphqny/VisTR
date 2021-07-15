@@ -111,12 +111,9 @@ class TransformerDecoder(nn.Module):
                            pos=pos, query_pos=query_pos)
             if self.return_intermediate:
                 intermediate.append(self.norm(output))
-
+        
         if self.norm is not None:
             output = self.norm(output)
-            if self.return_intermediate:
-                intermediate.pop()
-                intermediate.append(output)
 
         if self.return_intermediate:
             return torch.stack(intermediate)
